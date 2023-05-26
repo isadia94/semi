@@ -81,7 +81,7 @@ const Rates = () => {
               </tr>
             </tbody>
           </table>
-          <table className=" border-separate border border-slate-400 h-[400px] md:                w-full mt-12 hidden">
+          <table className=" border-separate border border-slate-400 h-[400px] md:                w-full mt-12 mytable ">
             <thead className=''>
               <tr className=''>
                 <th className=" py-4 px-2 md:px-6 border-b-[0.6px] border-slate-400  text-white font-bold"></th>
